@@ -1,11 +1,12 @@
 const books = [
   {
     id: 1,
-    image: "https://imgcdn.saxo.com/_9780135957059",
-    title: "The Prgamatic Programmer 20th Anniersary Edition",
-    author: "David Thomas and Andrew Hunt",
+    image: "https://images-na.ssl-images-amazon.com/images/I/71sNVXHUX8L.jpg",
+    title:
+      "The One Thing: The Surprisingly Simple Truth Behind Extraordinary Results",
+    author: "Gary Keller mit Jay Papasan",
     link:
-      "https://www.amazon.de/dp/B0833DSZHR/ref=cm_sw_em_r_mt_dp_MOf5Fb9RYAKK8",
+      "https://www.amazon.de/dp/1848549253/ref=cm_sw_em_r_mt_dp_xok5FbWY8V1MK",
   },
   {
     id: 2,
