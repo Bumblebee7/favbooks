@@ -1,6 +1,7 @@
 header {
   padding: 2rem;
-  background-color: grey;
+  background-color: #fff;
   text-align: center;
+  border-bottom: 1rem solid orangered;
 }
 /*# sourceMappingURL=header.css.map */
