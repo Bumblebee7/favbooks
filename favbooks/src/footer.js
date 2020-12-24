@@ -6,6 +6,7 @@ const footer = () => {
   return (
     <footer>
       <p>Build with React by Alex</p>
+      <p>Inspect the code on Github</p>
     </footer>
   );
 };
