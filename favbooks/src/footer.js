@@ -1,12 +1,23 @@
 import React from "react";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faCoffee } from "@fortawesome/free-solid-svg-icons";
+import { faHeart } from "@fortawesome/free-solid-svg-icons";
 
 import "./css/footer.css";
 
 const footer = () => {
   return (
     <footer>
-      <p>Build with React by Alex</p>
-      <p>Inspect the code on Github</p>
+      <p>
+        Build with <FontAwesomeIcon icon={faHeart} className="faHeart" /> by
+        Alex
+      </p>
+      <p>
+        Inspect the code on{" "}
+        <a href="https://github.com/Bumblebee7/favbooks/tree/Alpha/favbooks/src">
+          Github
+        </a>
+      </p>
     </footer>
   );
 };

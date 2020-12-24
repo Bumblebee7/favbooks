@@ -1,6 +1,11 @@
 footer {
   padding: 2rem;
-  background-color: grey;
+  background-color: #fff;
   text-align: center;
+  border-top: 1rem solid orangered;
+}
+
+.faHeart {
+  color: orangered;
 }
 /*# sourceMappingURL=footer.css.map */
