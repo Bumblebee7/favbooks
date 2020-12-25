@@ -7,7 +7,7 @@
 
 body {
   font-family: Arial, Helvetica, sans-serif;
-  background-image: url(https://pixabay.com/get/54e1d24b4f5aaa14ead98375c22f307a083ed8e55b5973487d297a.jpg);
+  background-image: url("../images/background.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
