@@ -1,8 +1,12 @@
 footer {
   padding: 2rem;
-  background-color: #fff;
+  background-color: rgba(255, 255, 255, 0.85);
   text-align: center;
   border-top: 1rem solid orangered;
+
+  a:visited {
+    color: orangered;
+  }
 }
 
 .faHeart {
