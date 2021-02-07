@@ -1,0 +1,15 @@
+footer {
+  padding: 2rem;
+  background-color: rgba(255, 255, 255, 0.85);
+  text-align: center;
+  border-top: 1rem solid orangered;
+}
+
+footer a:visited {
+  color: orangered;
+}
+
+.faHeart {
+  color: orangered;
+}
+/*# sourceMappingURL=footer.css.map */
